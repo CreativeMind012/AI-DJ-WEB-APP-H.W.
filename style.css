@@ -1,0 +1,22 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+  }
+.note{
+    font-size: 15px;
+    color: black;
+  }
+body{
+    background-size: cover;
+  }
+h5{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 22px;
+    margin: 20px;
+}
+canvas{
+    border: 5px solid wheat;
+    border-radius: 15px;
+}
